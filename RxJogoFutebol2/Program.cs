@@ -2,7 +2,7 @@
 using System;
 using System.Reactive.Linq;
 using System.Reactive.Subjects;
-
+//teste
 namespace RxJogoFutebol2
 {
     public interface IEvento { }
