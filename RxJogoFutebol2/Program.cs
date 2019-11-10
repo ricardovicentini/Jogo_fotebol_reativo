@@ -2,7 +2,7 @@
 using System;
 using System.Reactive.Linq;
 using System.Reactive.Subjects;
-//teste
+
 namespace RxJogoFutebol2
 {
     public interface IEvento { }
@@ -106,7 +106,10 @@ namespace RxJogoFutebol2
         public Time(CentralEventos central, string nome) : base(central)
         {
             Nome = nome;
-
+            central.OfType<ApitoInicio>()
+                .Subscribe(
+                    ini => Console.WriteLine($"{Nome}: Vamos lá pessoal, pra cima deles!")
+                );
             central.OfType<ApitoGol>() // Gol contra o time
                 .Where(gol => !gol.TimeEmCampo.Equals(this))
                 .Subscribe(
@@ -275,15 +278,15 @@ namespace RxJogoFutebol2
 
             try
             {
-                juiz.IniciarPartida();  
-                time1.MarcarGol();  
-                time2.CometerFalta();  
-                time1.CometerFalta();  
-                time2.MarcarGol();  
-                time1.CometerFalta();  
-                time2.CometerFalta();  
-                time2.CometerFalta();  
-                time1.MarcarGol();  
+                juiz.IniciarPartida();
+                time1.MarcarGol();
+                time2.CometerFalta();
+                time1.CometerFalta();
+                time2.MarcarGol();
+                time1.CometerFalta();
+                time2.CometerFalta();
+                time2.CometerFalta();
+                time1.MarcarGol();
             } 
             catch (System.ObjectDisposedException)
             {
