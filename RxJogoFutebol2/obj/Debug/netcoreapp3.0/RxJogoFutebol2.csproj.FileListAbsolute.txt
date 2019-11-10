@@ -1,0 +1,16 @@
+E:\Docs\estudo\csharp\RxJogoFutebol2\RxJogoFutebol2\bin\Debug\netcoreapp3.0\RxJogoFutebol2.exe
+E:\Docs\estudo\csharp\RxJogoFutebol2\RxJogoFutebol2\obj\Debug\netcoreapp3.0\RxJogoFutebol2.csprojAssemblyReference.cache
+E:\Docs\estudo\csharp\RxJogoFutebol2\RxJogoFutebol2\obj\Debug\netcoreapp3.0\RxJogoFutebol2.AssemblyInfoInputs.cache
+E:\Docs\estudo\csharp\RxJogoFutebol2\RxJogoFutebol2\obj\Debug\netcoreapp3.0\RxJogoFutebol2.AssemblyInfo.cs
+E:\Docs\estudo\csharp\RxJogoFutebol2\RxJogoFutebol2\bin\Debug\netcoreapp3.0\System.Reactive.dll
+E:\Docs\estudo\csharp\RxJogoFutebol2\RxJogoFutebol2\bin\Debug\netcoreapp3.0\System.Reactive.xml
+E:\Docs\estudo\csharp\RxJogoFutebol2\RxJogoFutebol2\obj\Debug\netcoreapp3.0\RxJogoFutebol2.csproj.CopyComplete
+E:\Docs\estudo\csharp\RxJogoFutebol2\RxJogoFutebol2\bin\Debug\netcoreapp3.0\RxJogoFutebol2.deps.json
+E:\Docs\estudo\csharp\RxJogoFutebol2\RxJogoFutebol2\bin\Debug\netcoreapp3.0\RxJogoFutebol2.runtimeconfig.json
+E:\Docs\estudo\csharp\RxJogoFutebol2\RxJogoFutebol2\bin\Debug\netcoreapp3.0\RxJogoFutebol2.runtimeconfig.dev.json
+E:\Docs\estudo\csharp\RxJogoFutebol2\RxJogoFutebol2\bin\Debug\netcoreapp3.0\RxJogoFutebol2.dll
+E:\Docs\estudo\csharp\RxJogoFutebol2\RxJogoFutebol2\bin\Debug\netcoreapp3.0\RxJogoFutebol2.pdb
+E:\Docs\estudo\csharp\RxJogoFutebol2\RxJogoFutebol2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Docs\estudo\csharp\RxJogoFutebol2\RxJogoFutebol2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Docs\estudo\csharp\RxJogoFutebol2\RxJogoFutebol2\obj\Debug\netcoreapp3.0\RxJogoFutebol2.dll
+E:\Docs\estudo\csharp\RxJogoFutebol2\RxJogoFutebol2\obj\Debug\netcoreapp3.0\RxJogoFutebol2.pdb
